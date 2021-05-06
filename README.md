@@ -14,8 +14,8 @@ This is nothing too crazy. But, its cool nonetheless.
 
 ### Subjects learnt
 
-- Setting up VS Code to work with `.sol` files.
+- Setting up VS Code to work with [`.sol`](https://docs.soliditylang.org/en/v0.8.4/)(Solidity) files.
 - How to create a smart contract and deploy it on [remix](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.4.26+commit.4563c3fc.js).
-- Testing smart contracts with `mocha`.
-- How to compile a smart contract.
-- How to deploy a smart contract on the `Rinkeby` test network.
+- Testing smart contracts with [`mocha`](https://mochajs.org/).
+- How to compile a [smart contract](https://www.investopedia.com/terms/s/smart-contracts.asp).
+- How to deploy a smart contract on the [`Rinkeby`](https://www.rinkeby.io/#stats) test network.
