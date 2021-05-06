@@ -16,6 +16,6 @@ This is nothing too crazy. But, its cool nonetheless.
 
 - Setting up VS Code to work with `.sol` files.
 - How to create a smart contract and deploy it on [remix](https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.4.26+commit.4563c3fc.js).
-- Testing smart contracts with mocha.
+- Testing smart contracts with `mocha`.
 - How to compile a smart contract.
-- How to deploy a smart contract on the Rinkeby test network.
+- How to deploy a smart contract on the `Rinkeby` test network.
