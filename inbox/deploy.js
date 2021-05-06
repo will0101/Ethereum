@@ -20,10 +20,9 @@ const deploy = async () => {
     console.log(`Deploying from account, ${accounts[0]}`)
     
     const result = await new web3.eth.Contract(JSON.parse(interface))
-    .deploy({data:'0x' + bytecode, arguments: ["Howdy!"]})
+    .deploy({data:bytecode, arguments: ["Howdy!"]})
     .send({
       gas: '1000000',
-      gasPrice: web3.utils.toWei('2','gwei'),
       from:accounts[0]})
       
       console.log(`Contract deployed to: ${result.options.address}`)
