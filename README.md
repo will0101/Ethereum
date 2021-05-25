@@ -19,3 +19,16 @@ This is nothing too crazy. But, its cool nonetheless.
 - Testing smart contracts with [`mocha`](https://mochajs.org/).
 - How to compile a [smart contract](https://www.investopedia.com/terms/s/smart-contracts.asp).
 - How to deploy a smart contract on the [`Rinkeby`](https://www.rinkeby.io/#stats) test network.
+
+
+## [1. Decentralized Lottery Application](https://lottery-dapp.netlify.app/)
+
+### Note - YOU MUST HAVE [METAMASK](https://metamask.io/) to interact w/ this application. Also, you can only enter the lottery. Not pick the winner. 
+
+This was actually really insightful into how the whole decentralization of the web could play out. There's no DB just smart contracts and the Ethereum network. Holy cow the possibilites, I can't think of any right now lol. But, I need to more research into the blockchain as a whole and let the concepts simmer a bit.
+
+![The lottery application](./images/lottery.png)
+
+### Subjects learnt
+- How to interact w/ a smart contract via a React app.
+- Utilizing Metamask to send ether into a smart contract.
